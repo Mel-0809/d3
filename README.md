@@ -19,7 +19,7 @@ import os
 
 os.system(f"./impl0 com --action reset")
 os.system(f"./impl0 com --action enable")
-os.system(f"./impl0 com --action --address 0x0")
+os.system(f"./impl0 cfg --address --address 0x0")
 ```
 
 ```console
